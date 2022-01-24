@@ -1,0 +1,28 @@
+08:37:22-Jan-24-2022,started the ETL process
+08:37:22-Jan-24-2022,started the Extract
+08:37:22-Jan-24-2022,completed the Extract
+08:37:22-Jan-24-2022,started the Transform
+08:37:45-Jan-24-2022,started the ETL process
+08:37:48-Jan-24-2022,started the Extract
+08:40:01-Jan-24-2022,completed the Extract
+08:40:02-Jan-24-2022,started the Transform
+08:41:01-Jan-24-2022,started the ETL process
+08:41:01-Jan-24-2022,started the Extract
+08:41:01-Jan-24-2022,completed the Extract
+08:41:01-Jan-24-2022,started the Transform
+08:42:25-Jan-24-2022,started the ETL process
+08:42:25-Jan-24-2022,started the Extract
+08:42:26-Jan-24-2022,completed the Extract
+08:42:26-Jan-24-2022,started the Transform
+08:42:26-Jan-24-2022,completed the Transform
+08:42:26-Jan-24-2022,started the Load
+08:42:26-Jan-24-2022,completed the Load
+08:42:26-Jan-24-2022,completed the ETL process
+08:42:40-Jan-24-2022,started the ETL process
+08:42:40-Jan-24-2022,started the Extract
+08:42:41-Jan-24-2022,completed the Extract
+08:42:41-Jan-24-2022,started the Transform
+08:42:41-Jan-24-2022,completed the Transform
+08:42:41-Jan-24-2022,started the Load
+08:42:41-Jan-24-2022,completed the Load
+08:42:41-Jan-24-2022,completed the ETL process
